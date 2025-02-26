@@ -1,0 +1,354 @@
+{
+  "conversations": [
+    {
+      "id": "1740552073267",
+      "title": "新对话",
+      "messages": [
+        {
+          "role": "bot",
+          "content": "你好，我是AI助手。我需要访问你的记忆来更好地为你服务。",
+          "memoryAccess": {
+            "type": "access",
+            "status": "approved"
+          }
+        },
+        {
+          "role": "bot",
+          "content": "感谢你允许我访问你的记忆。我现在可以更好地为你服务了。"
+        },
+        {
+          "role": "user",
+          "content": "1111"
+        },
+        {
+          "role": "bot",
+          "content": "你说得对，还有什么想法吗？"
+        },
+        {
+          "role": "user",
+          "content": "1111"
+        },
+        {
+          "role": "bot",
+          "content": "这让我想到了一些相关的内容..."
+        },
+        {
+          "role": "user",
+          "content": "222"
+        },
+        {
+          "role": "bot",
+          "content": "我明白你的意思了，让我想想..."
+        },
+        {
+          "role": "user",
+          "content": "222"
+        },
+        {
+          "role": "bot",
+          "content": "这是一个很有趣的观点，能详细说说吗？"
+        },
+        {
+          "role": "user",
+          "content": "3123123"
+        },
+        {
+          "role": "bot",
+          "content": "确实如此，我们可以进一步讨论这个话题。"
+        },
+        {
+          "role": "user",
+          "content": "3123132"
+        },
+        {
+          "role": "bot",
+          "content": "我明白你的意思了，让我想想..."
+        }
+      ],
+      "createdAt": "2025-02-26T06:41:13.267Z",
+      "updatedAt": "2025-02-26T06:47:25.872Z"
+    },
+    {
+      "id": "1740552138038",
+      "title": "新对话",
+      "messages": [
+        {
+          "role": "bot",
+          "content": "你好，我是AI助手。我需要访问你的记忆来更好地为你服务。",
+          "memoryAccess": {
+            "type": "access",
+            "status": "rejected"
+          }
+        },
+        {
+          "role": "bot",
+          "content": "我理解你的顾虑。我会在不访问记忆的情况下继续为你服务。"
+        }
+      ],
+      "createdAt": "2025-02-26T06:42:18.038Z",
+      "updatedAt": "2025-02-26T06:42:19.391Z"
+    },
+    {
+      "id": "1740552458646",
+      "title": "新对话",
+      "messages": [
+        {
+          "role": "bot",
+          "content": "你好，我是AI助手。我需要访问你的记忆来更好地为你服务。",
+          "memoryAccess": {
+            "type": "access",
+            "status": "rejected"
+          }
+        },
+        {
+          "role": "bot",
+          "content": "我理解你的顾虑。我会在不访问记忆的情况下继续为你服务。"
+        }
+      ],
+      "createdAt": "2025-02-26T06:47:38.646Z",
+      "updatedAt": "2025-02-26T06:47:40.320Z"
+    },
+    {
+      "id": "1740552642456",
+      "title": "新对话",
+      "messages": [
+        {
+          "role": "bot",
+          "content": "你好，我是AI助手。我需要访问你的记忆来更好地为你服务。",
+          "memoryAccess": {
+            "type": "access",
+            "status": "approved"
+          }
+        },
+        {
+          "role": "bot",
+          "content": "感谢你允许我访问你的记忆。我现在可以更好地为你服务了。"
+        },
+        {
+          "role": "user",
+          "content": "223333"
+        },
+        {
+          "role": "bot",
+          "content": "确实如此，我们可以进一步讨论这个话题。"
+        },
+        {
+          "role": "user",
+          "content": "1111"
+        },
+        {
+          "role": "bot",
+          "content": "这是一个很有趣的观点，能详细说说吗？"
+        }
+      ],
+      "createdAt": "2025-02-26T06:50:42.456Z",
+      "updatedAt": "2025-02-26T06:54:05.562Z"
+    },
+    {
+      "id": "1740552983181",
+      "title": "新对话",
+      "messages": [
+        {
+          "role": "bot",
+          "content": "你好，我是AI助手。我需要访问你的记忆来更好地为你服务。",
+          "memoryAccess": {
+            "type": "access",
+            "status": "approved"
+          }
+        },
+        {
+          "role": "bot",
+          "content": "感谢你允许我访问你的记忆。我现在可以更好地为你服务了。"
+        }
+      ],
+      "createdAt": "2025-02-26T06:56:23.181Z",
+      "updatedAt": "2025-02-26T06:56:28.441Z"
+    },
+    {
+      "id": "1740553421150",
+      "title": "新对话",
+      "messages": [
+        {
+          "role": "bot",
+          "content": "你好，我是AI助手。我需要访问你的记忆来更好地为你服务。",
+          "memoryAccess": {
+            "type": "access",
+            "status": "approved",
+            "signature": "0xa0259ba92f13209e1cf3bae88391970741dcaac6b57eff0e5c2310e7e61b52aa1f361e8bc1ed56af0bc160f877f552d55703be57f24c8d1c176abf6844a4928f1c",
+            "walletAddress": "0xbab1b1250b76bdbde8e4cfe10255ea586d5a6cd9"
+          }
+        },
+        {
+          "role": "bot",
+          "content": "感谢你允许我访问你的记忆。我现在可以更好地为你服务了。"
+        },
+        {
+          "role": "user",
+          "content": "1111"
+        },
+        {
+          "role": "bot",
+          "content": "我明白你的意思了，让我想想..."
+        },
+        {
+          "role": "user",
+          "content": "111"
+        },
+        {
+          "role": "bot",
+          "content": "确实如此，我们可以进一步讨论这个话题。"
+        }
+      ],
+      "createdAt": "2025-02-26T07:03:41.150Z",
+      "updatedAt": "2025-02-26T07:03:57.108Z"
+    },
+    {
+      "id": "1740553447571",
+      "title": "新对话",
+      "messages": [
+        {
+          "role": "bot",
+          "content": "你好，我是AI助手。我需要访问你的记忆来更好地为你服务。",
+          "memoryAccess": {
+            "type": "access",
+            "status": "rejected"
+          }
+        },
+        {
+          "role": "bot",
+          "content": "我理解你的顾虑。我会在不访问记忆的情况下继续为你服务。"
+        },
+        {
+          "role": "user",
+          "content": "31231"
+        },
+        {
+          "role": "bot",
+          "content": "我明白你的意思了，让我想想..."
+        },
+        {
+          "role": "user",
+          "content": "3"
+        },
+        {
+          "role": "bot",
+          "content": "你说得对，还有什么想法吗？"
+        },
+        {
+          "role": "user",
+          "content": "3"
+        },
+        {
+          "role": "bot",
+          "content": "这是一个很有趣的观点，能详细说说吗？"
+        },
+        {
+          "role": "user",
+          "content": "23"
+        },
+        {
+          "role": "bot",
+          "content": "你说得对，还有什么想法吗？"
+        },
+        {
+          "role": "user",
+          "content": "1231"
+        },
+        {
+          "role": "bot",
+          "content": "这让我想到了一些相关的内容..."
+        }
+      ],
+      "createdAt": "2025-02-26T07:04:07.571Z",
+      "updatedAt": "2025-02-26T07:04:08.824Z"
+    },
+    {
+      "id": "1740553453862",
+      "title": "新对话",
+      "messages": [
+        {
+          "role": "bot",
+          "content": "你好，我是AI助手。我需要访问你的记忆来更好地为你服务。",
+          "memoryAccess": {
+            "type": "access",
+            "status": "pending"
+          }
+        },
+        {
+          "role": "user",
+          "content": "1"
+        },
+        {
+          "role": "bot",
+          "content": "这让我想到了一些相关的内容..."
+        }
+      ],
+      "createdAt": "2025-02-26T07:04:13.862Z",
+      "updatedAt": "2025-02-26T07:04:13.862Z"
+    },
+    {
+      "id": "1740553521594",
+      "title": "新对话",
+      "messages": [
+        {
+          "role": "bot",
+          "content": "你好，我是AI助手。我需要访问你的记忆来更好地为你服务。",
+          "memoryAccess": {
+            "type": "access",
+            "status": "approved",
+            "signature": "0x0d7f23f501b8784d9dba816bdb71cdf49000fb92ca570b96a96c7d03dcaf04b77ac2d92ad46f6b374cc935859c50d18f3f7f99b9115d63fd3d4c4c8a243662461b",
+            "walletAddress": "0xbab1b1250b76bdbde8e4cfe10255ea586d5a6cd9"
+          }
+        },
+        {
+          "role": "bot",
+          "content": "感谢你允许我访问你的记忆。我现在可以更好地为你服务了。"
+        }
+      ],
+      "createdAt": "2025-02-26T07:05:21.594Z",
+      "updatedAt": "2025-02-26T07:06:25.236Z"
+    },
+    {
+      "id": "1740553587222",
+      "title": "新对话",
+      "messages": [
+        {
+          "role": "bot",
+          "content": "你好，我是AI助手。我需要访问你的记忆来更好地为你服务。",
+          "memoryAccess": {
+            "type": "access",
+            "status": "rejected"
+          }
+        },
+        {
+          "role": "bot",
+          "content": "我理解你的顾虑。我会在不访问记忆的情况下继续为你服务。"
+        }
+      ],
+      "createdAt": "2025-02-26T07:06:27.222Z",
+      "updatedAt": "2025-02-26T07:06:31.856Z"
+    },
+    {
+      "id": "1740553684598",
+      "title": "新对话",
+      "messages": [
+        {
+          "role": "bot",
+          "content": "你好，我是AI助手。我需要访问你的记忆来更好地为你服务。",
+          "memoryAccess": {
+            "type": "access",
+            "status": "approved",
+            "signature": "0x4fb825e3afb4c3421f663e28d8a2ba0e48364734ea7bb3165fc608a60da1a2de4c69c67f80c82d70f57128b7008105682e7781dca2262422275a95d368bd3e191c",
+            "walletAddress": "0xbab1b1250b76bdbde8e4cfe10255ea586d5a6cd9"
+          }
+        },
+        {
+          "role": "bot",
+          "content": "感谢你允许我访问你的记忆。我现在可以更好地为你服务了。"
+        }
+      ],
+      "createdAt": "2025-02-26T07:08:04.598Z",
+      "updatedAt": "2025-02-26T07:08:10.551Z"
+    }
+  ]
+}
